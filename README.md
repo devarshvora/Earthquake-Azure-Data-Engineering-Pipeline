@@ -22,7 +22,7 @@ This pipeline automates the ingestion of earthquake data, processes it through m
 ## 🏗️ Architecture
 The pipeline uses Azure's modern data engineering tools to process earthquake data. Below is the workflow diagram:
 
-![Workflow Diagram](Workflow.png)
+![Workflow Diagram](Workflow.jpg)
 
 ### Key Components:
 - **Azure Data Factory**: Orchestrates the pipeline and triggers notebooks.
