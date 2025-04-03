@@ -1,7 +1,3 @@
-### 2. Comprehensive Guide: Earthquake Data Engineering Pipeline with Azure
-
----
-
 # Comprehensive Guide: Earthquake Data Engineering Pipeline with Azure
 
 This guide provides step-by-step instructions for setting up an automated earthquake data engineering pipeline using Azure services.
