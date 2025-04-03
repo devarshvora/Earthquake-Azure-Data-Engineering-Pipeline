@@ -48,7 +48,7 @@ This guide provides step-by-step instructions for setting up an automated earthq
 
 Azure Data Factory orchestrates the execution of notebooks for each stage of the pipeline (Bronze → Silver → Gold). The following diagram illustrates how ADF connects these stages:
 
-![Data Factory Workflow](https://raw.githubusercontent.com/devarshvora/Earthquake-Azure-Data-Engineering-Pipeline/main/images/Data%20factory%20Workflow.jpg)
+![Data Factory Workflow](https://raw.githubusercontent.com/devarshvora/Earthquake-Azure-Data-Engineering-Pipeline/main/images/Data%20factory%20Workflow.png)
 
 
 ### 3.1 Create a New Pipeline
