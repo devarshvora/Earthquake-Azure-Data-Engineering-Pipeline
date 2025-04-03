@@ -100,10 +100,3 @@ Use Power BI to create interactive dashboards based on processed earthquake data
 
 This guide equips you with all necessary steps to set up a robust earthquake data engineering pipeline on Azure!
 
-Citations:
-[1] ![Data Factory Workflow](Data-factory.jpg)
-
----
-
-Happy coding! 🚀
-
